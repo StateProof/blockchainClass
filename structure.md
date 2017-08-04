@@ -7,7 +7,7 @@
 1. Введение
 2. Криптография: Хэш функия, дерево Меркла, цифровая подпись (на хэшах).
 3. Упрощенная транзакций, проблема double spending, blockchain, устройство PoW
-4. Майнинг: эволюция (CPU, FGPA, GPU, ASICS), X11, scrypt, equihash, ECDSA
+4. Майнинг: эволюция (CPU, FGPA, GPU, ASICS), X11, scrypt, equihash
 5. Майнинг: майнинг пулы (в том числе p2p pool, smartpool), стратегии майнинга(selfish mining, Stubborn Mining)
 6. Альтернативные варианты консенсуса - PoS (Nxt, Ouroboras)
 7. Проблема масштабирования - улучшение сетевого протокола (Bitcoin-ng, Bitcoin Unlimited, Byzcoin(?))
