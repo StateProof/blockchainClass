@@ -8,6 +8,8 @@
 - A. Back, "Hashcash - a denial of service counter-measure,"  http://www.hashcash.org/papers/hashcash.pdf, 2002.
 - Papamanthou, C., & Tamassia, R. (2007). Time and space efficient algorithms for two-party authenticated data structures.
 - Reyzin, L., Meshkov, D., Chepurnoy, A., & Ivanov, S. (2016). Improving Authenticated Dynamic Dictionaries, with Applications to Cryptocurrencies.
+- (?) Generate secure random, Randao
  
  
- 
+- PoPoW
+-
