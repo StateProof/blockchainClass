@@ -11,5 +11,13 @@
 - (?) Generate secure random, Randao
  
  
+### Лекция 3 - PoW, SPV, Bitcoin Transactions
 - PoPoW
 -
+
+### Лекция 4 - PoS
+- Fan L., Zhou H. S. iChing: A Scalable Proof-of-Stake Blockchain in the Open Setting
+- Liao K., Katz J. Incentivizing blockchain forks via whale transactions
+- Secure random
+- Multibranch forging
+- Nothing at stake
